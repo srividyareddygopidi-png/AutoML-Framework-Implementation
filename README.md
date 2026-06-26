@@ -10,7 +10,7 @@
 
 **Organization:** CodTech IT Solutions
 
-**Duration:** 4 Weeks
+**Duration:** 6 Weeks
 
 ---
 
